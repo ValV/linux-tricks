@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Заметки GNU/Linux
+description: Онлайн-блокнот для записей в ходе работе с GNU/Linux
+show_downloads: true
