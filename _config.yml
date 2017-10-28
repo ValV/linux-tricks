@@ -1,4 +1,14 @@
-theme: jekyll-theme-minimal
 title: Заметки GNU/Linux
 description: Онлайн-блокнот для записей в ходе работе с GNU/Linux
-show_downloads: false
+theme: jekyll-theme-minimal
+theme_engine: Основан на GitHub Pages. Автор оригинальной темы &mdash;
+theme_author: orderedlist
+theme_auturl: https://github.com/orderedlist
+show_downloads: true
+project_maintainer: Автор проекта
+href_download: Загрузить
+href_view: Просмотреть
+button_zip: ZIP архив
+button_tar: TAR архив
+button_github: GitHub
+
