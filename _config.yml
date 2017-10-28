@@ -1,14 +1,16 @@
 title: Заметки GNU/Linux
 description: Онлайн-блокнот для записей в ходе работе с GNU/Linux
+show_downloads: false
 theme: jekyll-theme-minimal
-theme_engine: Основан на GitHub Pages. Автор оригинальной темы &mdash;
-theme_author: orderedlist
-theme_auturl: https://github.com/orderedlist
-show_downloads: true
-project_maintainer: Автор проекта
-href_download: Загрузить
-href_view: Просмотреть
-button_zip: ZIP архив
-button_tar: TAR архив
-button_github: GitHub
+caption_theme_engine: Основан на GitHub Pages. Автор оригинальной темы &mdash;
+caption_theme_author: orderedlist
+caption_theme_url: https://github.com/orderedlist
+caption_project_url: Перейти к проекту на GitHub
+caption_project_profile: Мой профиль на GitHub
+caption_project_maintainer: Автор проекта
+caption_href_download: Загрузить
+caption_href_view: Просмотреть
+caption_button_zip: ZIP архив
+caption_button_tar: TAR архив
+caption_button_github: GitHub
 
