@@ -1,4 +1,4 @@
-##### [Навигатор заметок](index.md)
+###### [В начало](../index.md)
 
 ## Как поднять папки в начало списка в диалоге выбора файлов Gtk+3
 
@@ -16,4 +16,4 @@ $ dconf dconf read /org/gtk/settings/file-chooser/sort-directories-first
 
 Довольно просто.
 
-##### [Навигатор заметок](index.md)
+###### [В начало](../index.md)
